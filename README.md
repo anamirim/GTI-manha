@@ -1,2 +1,2 @@
 # GTI-manha
-teste
+Oficina de Controle de Versão com Git/GitHub
